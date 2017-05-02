@@ -244,7 +244,7 @@
                 ctx.font = "12px Arial"; 
                  
                 $('.SHIP').change( function() {  
-                    draw(); /* teken alles opnieuw! */ 
+                    draw(); 
                 }); 
                  
                 function charToNum(character) { 
