@@ -61,50 +61,7 @@ else
             <ul >
 
              
-
-            <li id="li_2" >
-
-        <label class="description" for="age">Your Age </label>
-
-        <div>
-
-            <input id="age" name="age" class="element text medium" type="number" maxlength="255" value="" placeholder="" required>
-
-        </div>
-
-        </li>     <li id="li_3" >
-
-        <label class="description" for="weight">Weight </label>
-
-        <div>
-
-        <select class="element select medium" id="weight" name="weight" placeholder="" required> 
-
-            <option value="" selected="selected"></option>
-
-<option value="1">Super Heavyweight</option>
-
-    <option value="2">Heavyweight</option>
-
-    <option value="3">Middleweight</option>
-
-    <option value="4">Welterweight</option>
-
-    <option value="5">Light Welterweight</option>
-
-    <option value="6">Lightweight</option>
-
-    <option value="7">Featherweight</option>
-
-    <option value="8">Bantamweight</option>
-
- 
-
-        </select>
-
-        </div>
-
-        </li>     <li id="li_4" >
+    <li id="li_4" >
 
         <label class="description" for="experience">Experience </label>
 
@@ -114,13 +71,13 @@ else
 
             <option value="" selected="selected"></option>
 
-    <option value="below">less than one year</option>
+    <option value="below">less than one week</option>
 
-    <option value="beginner">1-3 years</option>
+    <option value="beginner">1 month</option>
 
-    <option value="intermediate">3-6 years</option>
+    <option value="intermediate">2 months</option>
 
-    <option value="experienced">6 or more years</option>
+    <option value="experienced">more than 3 months</option>
 
  
 
@@ -130,9 +87,7 @@ else
 
         </li>
 
-             
-
-                    <li class="buttons">
+                <li class="buttons">
 
                 <input type="hidden" name="form_id" value="814832" />
 
